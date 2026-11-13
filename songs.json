@@ -1,0 +1,526 @@
+[
+  {
+    "id": "mare-mansa",
+    "title": "Maré mansa",
+    "subtitle": "um lugar para voltar devagar",
+    "mood": "PARA O FIM DA TARDE",
+    "audio": "music/mare.wav",
+    "artwork": "artwork/mare.jpg",
+    "backgrounds": {
+      "desktop": "artwork/mare.jpg",
+      "mobile": "artwork/mare.jpg"
+    },
+    "lyrics": "lyrics/mare.json",
+    "accent": "#7fa2af",
+    "year": "2025",
+    "demo": true,
+    "duration": 24.0
+  },
+  {
+    "id": "cidade-dorme",
+    "title": "A cidade dorme",
+    "subtitle": "luzes acesas depois da chuva",
+    "mood": "DEPOIS DA MEIA-NOITE",
+    "audio": "music/noite.wav",
+    "artwork": "artwork/noite.jpg",
+    "backgrounds": {
+      "desktop": "artwork/noite.jpg",
+      "mobile": "artwork/noite.jpg"
+    },
+    "lyrics": "lyrics/noite.json",
+    "accent": "#b8a5a6",
+    "year": "2025",
+    "demo": true,
+    "duration": 24.0
+  },
+  {
+    "id": "tudo-verde",
+    "title": "Tudo verde",
+    "subtitle": "quando a manhã enfim chega",
+    "mood": "AR FRESCO, JANELA ABERTA",
+    "audio": "music/verde.wav",
+    "artwork": "artwork/verde.jpg",
+    "backgrounds": {
+      "desktop": "artwork/verde.jpg",
+      "mobile": "artwork/verde.jpg"
+    },
+    "lyrics": "lyrics/verde.json",
+    "accent": "#aab29e",
+    "year": "2025",
+    "demo": true,
+    "duration": 24.0
+  },
+  {
+    "id": "song-montauk-eight-blocked",
+    "title": "Montauk Eight — Blocked",
+    "subtitle": "feito em casa",
+    "audio": "music/Montauk_Eight-Blocked.mp3",
+    "artwork": "artwork/song-montauk-eight-blocked.jpg",
+    "backgrounds": {
+      "desktop": "artwork/song-montauk-eight-blocked.jpg",
+      "mobile": "artwork/song-montauk-eight-blocked.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-montauk-eight-blocked.txt",
+    "demo": false,
+    "accent": "#7ca2b3",
+    "duration": 363.86
+  },
+  {
+    "id": "song-montauk-eight-blocked-2",
+    "title": "Montauk Eight — Blocked (2)",
+    "subtitle": "feito em casa",
+    "audio": "music/Montauk_Eight-Blocked-2.mp3",
+    "artwork": "artwork/song-montauk-eight-blocked-2.jpg",
+    "backgrounds": {
+      "desktop": "artwork/song-montauk-eight-blocked-2.jpg",
+      "mobile": "artwork/song-montauk-eight-blocked-2.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-montauk-eight-blocked-2.txt",
+    "demo": false,
+    "accent": "#7ca2b3",
+    "duration": 363.86
+  },
+  {
+    "id": "song-to-whom-it-may-concern",
+    "title": "To Whom It May Concern",
+    "subtitle": "feito em casa",
+    "audio": "music/To_Whom_It_May_Concern.mp3",
+    "artwork": "artwork/song-to-whom-it-may-concern.jpg",
+    "backgrounds": {
+      "desktop": "artwork/song-to-whom-it-may-concern.jpg",
+      "mobile": "artwork/song-to-whom-it-may-concern.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-to-whom-it-may-concern.txt",
+    "demo": false,
+    "accent": "#c39d9f",
+    "duration": 341.28
+  },
+  {
+    "id": "song-the-floor-remembers-1",
+    "title": "The Floor Remembers — versão 1",
+    "subtitle": "feito em casa",
+    "audio": "music/The_Floor_Remembers__1_.mp3",
+    "artwork": "artwork/song-the-floor-remembers-1.jpg",
+    "backgrounds": {
+      "desktop": "artwork/song-the-floor-remembers-1.jpg",
+      "mobile": "artwork/song-the-floor-remembers-1.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-the-floor-remembers-1.txt",
+    "demo": false,
+    "accent": "#b0bcc6",
+    "duration": 320.66
+  },
+  {
+    "id": "song-the-floor-remembers",
+    "title": "The Floor Remembers",
+    "subtitle": "feito em casa",
+    "audio": "music/The_Floor_Remembers.mp3",
+    "artwork": "artwork/song-the-floor-remembers.jpg",
+    "backgrounds": {
+      "desktop": "artwork/song-the-floor-remembers.jpg",
+      "mobile": "artwork/song-the-floor-remembers.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-the-floor-remembers.txt",
+    "demo": false,
+    "accent": "#b0bcc6",
+    "duration": 320.66
+  },
+  {
+    "id": "song-mystery-machine",
+    "title": "Mystery Machine",
+    "subtitle": "feito em casa",
+    "audio": "music/Mystery_Machine.mp3",
+    "artwork": "artwork/song-mystery-machine.jpg",
+    "backgrounds": {
+      "desktop": "artwork/song-mystery-machine.jpg",
+      "mobile": "artwork/song-mystery-machine.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-mystery-machine.txt",
+    "demo": false,
+    "accent": "#cbc8cd",
+    "duration": 306.91
+  },
+  {
+    "id": "song-why",
+    "title": "Why?",
+    "subtitle": "feito em casa",
+    "audio": "music/Why_.mp3",
+    "artwork": "artwork/song-why.jpg",
+    "backgrounds": {
+      "desktop": "artwork/song-why.jpg",
+      "mobile": "artwork/song-why.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-why.txt",
+    "demo": false,
+    "accent": "#a7a7ae",
+    "duration": 320.04
+  },
+  {
+    "id": "song-report-number",
+    "title": "Report Number",
+    "subtitle": "feito em casa",
+    "audio": "music/Report_Number_.mp3",
+    "artwork": "artwork/song-report-number.jpg",
+    "backgrounds": {
+      "desktop": "artwork/song-report-number.jpg",
+      "mobile": "artwork/song-report-number.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-report-number.txt",
+    "demo": false,
+    "accent": "#b7acb7",
+    "duration": 291.12
+  },
+  {
+    "id": "song-paper-trail-in-the-light",
+    "title": "Paper Trail in the Light",
+    "subtitle": "feito em casa",
+    "audio": "music/Paper_Trail_in_the_Light.mp3",
+    "artwork": "artwork/song-paper-trail-in-the-light.jpg",
+    "backgrounds": {
+      "desktop": "artwork/song-paper-trail-in-the-light.jpg",
+      "mobile": "artwork/song-paper-trail-in-the-light.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-paper-trail-in-the-light.txt",
+    "demo": false,
+    "accent": "#a59a87",
+    "duration": 296.23
+  },
+  {
+    "id": "song-o-piso-lembra-2",
+    "title": "O Piso Lembra",
+    "subtitle": "feito em casa",
+    "audio": "music/O_Piso_Lembra_2.mp3",
+    "artwork": "artwork/song-o-piso-lembra-2.jpg",
+    "backgrounds": {
+      "desktop": "artwork/song-o-piso-lembra-2.jpg",
+      "mobile": "artwork/song-o-piso-lembra-2.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-o-piso-lembra-2.txt",
+    "demo": false,
+    "accent": "#aeb8c2",
+    "duration": 277.03
+  },
+  {
+    "id": "song-april-second-callousness",
+    "title": "April Second Callousness",
+    "subtitle": "feito em casa",
+    "audio": "music/April_Second_Callousness.mp3",
+    "artwork": "artwork/song-april-second-callousness.jpg",
+    "backgrounds": {
+      "desktop": "artwork/song-april-second-callousness.jpg",
+      "mobile": "artwork/song-april-second-callousness.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-april-second-callousness.txt",
+    "demo": false,
+    "accent": "#909da1",
+    "duration": 287.42
+  },
+  {
+    "id": "song-marca-no-meu-corpo-1",
+    "title": "Marca no Meu Corpo — versão 2",
+    "subtitle": "feito em casa",
+    "audio": "music/playback/Marca_no_Meu_Corpo__1_.m4a",
+    "artwork": "artwork/marca-no-meu-corpo.jpg",
+    "backgrounds": {
+      "desktop": "artwork/marca-no-meu-corpo.jpg",
+      "mobile": "artwork/marca-no-meu-corpo.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-marca-no-meu-corpo-1.txt",
+    "demo": false,
+    "accent": "#a59a84",
+    "duration": 391.96,
+    "originalAudio": "music/Marca_no_Meu_Corpo__1_.m4a"
+  },
+  {
+    "id": "song-the-floor-remembers-2",
+    "title": "The Floor Remembers — versão 2",
+    "subtitle": "feito em casa",
+    "audio": "music/The_Floor_Remembers_2.mp3",
+    "artwork": "artwork/song-the-floor-remembers-2.jpg",
+    "backgrounds": {
+      "desktop": "artwork/song-the-floor-remembers-2.jpg",
+      "mobile": "artwork/song-the-floor-remembers-2.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-the-floor-remembers-2.txt",
+    "demo": false,
+    "accent": "#acb7c0",
+    "duration": 292.94
+  },
+  {
+    "id": "song-marca-no-meu-corpo",
+    "title": "Marca no Meu Corpo",
+    "subtitle": "feito em casa",
+    "audio": "music/playback/Marca_no_Meu_Corpo.m4a",
+    "artwork": "artwork/marca-no-meu-corpo.jpg",
+    "backgrounds": {
+      "desktop": "artwork/marca-no-meu-corpo.jpg",
+      "mobile": "artwork/marca-no-meu-corpo.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-marca-no-meu-corpo.txt",
+    "demo": false,
+    "accent": "#a59a84",
+    "duration": 394.36,
+    "originalAudio": "music/Marca_no_Meu_Corpo.m4a"
+  },
+  {
+    "id": "song-derrick-backdoor",
+    "title": "Derrick Backdoor",
+    "subtitle": "feito em casa",
+    "audio": "music/Derrick_Backdoor.mp3",
+    "artwork": "artwork/song-derrick-backdoor.jpg",
+    "backgrounds": {
+      "desktop": "artwork/song-derrick-backdoor.jpg",
+      "mobile": "artwork/song-derrick-backdoor.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-derrick-backdoor.txt",
+    "demo": false,
+    "accent": "#9e98a9",
+    "duration": 271.51
+  },
+  {
+    "id": "song-borrowed-power-1",
+    "title": "Borrowed Power — versão 2",
+    "subtitle": "feito em casa",
+    "audio": "music/playback/Borrowed_Power__1_.m4a",
+    "artwork": "artwork/borrowed-power.jpg",
+    "backgrounds": {
+      "desktop": "artwork/borrowed-power.jpg",
+      "mobile": "artwork/borrowed-power.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-borrowed-power-1.txt",
+    "demo": false,
+    "accent": "#9e9a99",
+    "duration": 369.27,
+    "originalAudio": "music/Borrowed_Power__1_.m4a"
+  },
+  {
+    "id": "song-silence-isn-t-nothing-2",
+    "title": "Silence Isn't Nothing",
+    "subtitle": "feito em casa",
+    "audio": "music/Silence_Isn_t_Nothing_2.mp3",
+    "artwork": "artwork/song-silence-isn-t-nothing-2.jpg",
+    "backgrounds": {
+      "desktop": "artwork/song-silence-isn-t-nothing-2.jpg",
+      "mobile": "artwork/song-silence-isn-t-nothing-2.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-silence-isn-t-nothing-2.txt",
+    "demo": false,
+    "accent": "#95a0a5",
+    "duration": 265.99
+  },
+  {
+    "id": "song-borrowed-power",
+    "title": "Borrowed Power",
+    "subtitle": "feito em casa",
+    "audio": "music/playback/Borrowed_Power.m4a",
+    "artwork": "artwork/borrowed-power.jpg",
+    "backgrounds": {
+      "desktop": "artwork/borrowed-power.jpg",
+      "mobile": "artwork/borrowed-power.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-borrowed-power.txt",
+    "demo": false,
+    "accent": "#9e9a99",
+    "duration": 363.92,
+    "originalAudio": "music/Borrowed_Power.m4a"
+  },
+  {
+    "id": "song-no-gray-area",
+    "title": "No Gray Area",
+    "subtitle": "feito em casa",
+    "audio": "music/playback/No_Gray_Area.m4a",
+    "artwork": "artwork/no-gray-area.jpg",
+    "backgrounds": {
+      "desktop": "artwork/no-gray-area.jpg",
+      "mobile": "artwork/no-gray-area.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-no-gray-area.txt",
+    "demo": false,
+    "accent": "#9ba5b6",
+    "duration": 324.72,
+    "originalAudio": "music/No_Gray_Area.m4a"
+  },
+  {
+    "id": "song-eu-to-de-pe",
+    "title": "Eu Tô de Pé",
+    "subtitle": "feito em casa",
+    "audio": "music/playback/Eu_To_de_Pe_.m4a",
+    "artwork": "artwork/eu-to-de-pe.jpg",
+    "backgrounds": {
+      "desktop": "artwork/eu-to-de-pe.jpg",
+      "mobile": "artwork/eu-to-de-pe.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-eu-to-de-pe.txt",
+    "demo": false,
+    "accent": "#cfc1aa",
+    "duration": 327.84,
+    "originalAudio": "music/Eu_To_de_Pe_.m4a"
+  },
+  {
+    "id": "song-no-in-between",
+    "title": "No In-Between",
+    "subtitle": "feito em casa",
+    "audio": "music/No_In-Between.mp3",
+    "artwork": "artwork/song-no-in-between.jpg",
+    "backgrounds": {
+      "desktop": "artwork/song-no-in-between.jpg",
+      "mobile": "artwork/song-no-in-between.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-no-in-between.txt",
+    "demo": false,
+    "accent": "#acaaa6",
+    "duration": 233.04
+  },
+  {
+    "id": "song-born-to-fight-m",
+    "title": "Born to Fight (M)",
+    "subtitle": "feito em casa",
+    "audio": "music/playback/Born_to_Fight_M.m4a",
+    "artwork": "artwork/born-to-fight.jpg",
+    "backgrounds": {
+      "desktop": "artwork/born-to-fight.jpg",
+      "mobile": "artwork/born-to-fight.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-born-to-fight-m.txt",
+    "demo": false,
+    "accent": "#b4a892",
+    "duration": 278.56,
+    "originalAudio": "music/Born_to_Fight_M.m4a"
+  },
+  {
+    "id": "song-born-to-fight",
+    "title": "Born to Fight",
+    "subtitle": "feito em casa",
+    "audio": "music/playback/Born_to_Fight.m4a",
+    "artwork": "artwork/born-to-fight.jpg",
+    "backgrounds": {
+      "desktop": "artwork/born-to-fight.jpg",
+      "mobile": "artwork/born-to-fight.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-born-to-fight.txt",
+    "demo": false,
+    "accent": "#b4a892",
+    "duration": 278.56,
+    "originalAudio": "music/Born_to_Fight.m4a"
+  },
+  {
+    "id": "song-inspection-to-permit",
+    "title": "Inspection to Permit",
+    "subtitle": "feito em casa",
+    "audio": "music/Inspection_to_permit_.mp3",
+    "artwork": "artwork/song-inspection-to-permit.jpg",
+    "backgrounds": {
+      "desktop": "artwork/song-inspection-to-permit.jpg",
+      "mobile": "artwork/song-inspection-to-permit.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-inspection-to-permit.txt",
+    "demo": false,
+    "accent": "#879dbe",
+    "duration": 198.26
+  },
+  {
+    "id": "song-report-number-2",
+    "title": "Report Number — versão 2",
+    "subtitle": "feito em casa",
+    "audio": "music/Report_Number__.mp3",
+    "artwork": "artwork/song-report-number-2.jpg",
+    "backgrounds": {
+      "desktop": "artwork/song-report-number-2.jpg",
+      "mobile": "artwork/song-report-number-2.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-report-number-2.txt",
+    "demo": false,
+    "accent": "#a3a2b2",
+    "duration": 199.94
+  },
+  {
+    "id": "song-born-to-fight-sl",
+    "title": "Born to Fight (SL)",
+    "subtitle": "feito em casa",
+    "audio": "music/playback/Born_to_Fight_SL.m4a",
+    "artwork": "artwork/born-to-fight.jpg",
+    "backgrounds": {
+      "desktop": "artwork/born-to-fight.jpg",
+      "mobile": "artwork/born-to-fight.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-born-to-fight-sl.txt",
+    "demo": false,
+    "accent": "#b4a892",
+    "duration": 266.36,
+    "originalAudio": "music/Born_to_Fight_SL.m4a"
+  },
+  {
+    "id": "song-eles-tentam-me-derrubar-converted",
+    "title": "Eles tentam me derrubar",
+    "subtitle": "feito em casa",
+    "audio": "music/Eles_tentam_me_derrubar__Converted_.mp3",
+    "artwork": "artwork/derrubada.jpg",
+    "backgrounds": {
+      "desktop": "artwork/derrubada.jpg",
+      "mobile": "artwork/derrubada.jpg"
+    },
+    "year": "2025",
+    "demo": false,
+    "accent": "#aca39c",
+    "duration": 271.25
+  },
+  {
+    "id": "song-defecating",
+    "title": "The Long Rumble",
+    "subtitle": "feito em casa",
+    "audio": "music/Defecating.mp3",
+    "artwork": "artwork/song-defecating.jpg",
+    "backgrounds": {
+      "desktop": "artwork/song-defecating.jpg",
+      "mobile": "artwork/song-defecating.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-defecating.txt",
+    "demo": false,
+    "accent": "#8f9ea4",
+    "duration": 181.03
+  },
+  {
+    "id": "song-apt-1b",
+    "title": "APT 1B",
+    "subtitle": "feito em casa",
+    "audio": "music/playback/APT_1B.m4a",
+    "artwork": "artwork/apt-one-b.jpg",
+    "backgrounds": {
+      "desktop": "artwork/apt-one-b.jpg",
+      "mobile": "artwork/apt-one-b.jpg"
+    },
+    "year": "2025",
+    "lyrics": "lyrics/song-apt-1b.txt",
+    "demo": false,
+    "accent": "#a8aba6",
+    "duration": 251.12,
+    "originalAudio": "music/APT_1B.m4a"
+  }
+]
